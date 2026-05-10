@@ -1,0 +1,17 @@
+{
+  "name": "FLOW — Control de Hábitos",
+  "short_name": "FLOW",
+  "description": "Controla tus hábitos diarios y mantén tu racha.",
+  "start_url": "./rastreador de hábitos-3.html",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#00ff87",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%23080808'/><text x='50%25' y='54%25' font-size='110' text-anchor='middle' dominant-baseline='middle' fill='%2300ff87'>F</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
